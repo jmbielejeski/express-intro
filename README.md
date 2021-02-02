@@ -6,3 +6,5 @@ npm install body-parser
 node package manager(npm) - for JS libraries
 
 control c - stops server
+
+killall -9 node ---- kills any open node servers
